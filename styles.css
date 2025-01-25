@@ -1,0 +1,19 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: darkslategrey;
+    font-size: 18px;
+}
+
+ul, ol {
+    font-size: 12px;
+}
+
+.header {
+    font-size: 20px;
+    background-color: orchid;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
