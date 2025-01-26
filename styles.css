@@ -10,10 +10,23 @@ ul, ol {
 
 .header {
     font-size: 20px;
-    background-color: orchid;
 }
 
 img {
     height: auto;
     width: 500px;
+}
+
+.c_list {
+    display: flex;
+    list-style: none;
+}
+
+.r_buttons {
+    background-color: rgb(236, 216, 255);
+    border: 2px solid gray;
+    text-align: center;
+    margin: 2px;
+    height: 20px;
+    width: 125px;
 }
